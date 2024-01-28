@@ -14,3 +14,5 @@ _This is also italic_
 __THis is also bold__
 
 *Italic with some **bold***
+
+![Image of Dunetocat](https://octodex.github.com/images/dunetocat.png)
