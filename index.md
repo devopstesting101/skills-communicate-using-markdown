@@ -31,3 +31,7 @@ var myVar = "Hello, world!";
 ``` powershell
 write-output "Hello World!"
 ```
+
+- [x] This has been done
+- [x] THis is also done
+- [ ] THis hasn't been done yet
