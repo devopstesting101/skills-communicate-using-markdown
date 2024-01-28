@@ -16,3 +16,18 @@ __THis is also bold__
 *Italic with some **bold***
 
 ![Image of Dunetocat](https://octodex.github.com/images/dunetocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### Javascript
+``` javascript
+var myVar = "Hello, world!";
+```
+
+### Powershell
+``` powershell
+write-output "Hello World!"
+```
